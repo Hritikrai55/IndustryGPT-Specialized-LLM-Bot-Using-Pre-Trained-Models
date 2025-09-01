@@ -1,7 +1,7 @@
 # 🦙 Llama 3 LoRA Fine-Tuning on PDFs
 
 A comprehensive implementation for fine-tuning Meta's Llama 3 8B model using LoRA (Low Rank Adaptation) technique on PDF documents, complete with a Gradio web interface for interactive chat.
-
+Note : If you unable to open Llama_Finetune.ipynb then click on this https://colab.research.google.com/drive/14_fbfiDoOaIJ3ARPKZB1kpPDUE4x-IM6?usp=sharing
 ## 📋 Features
 
 - **PDF Processing**: Extract and chunk text from PDF documents
