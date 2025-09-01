@@ -89,7 +89,7 @@ Llama-Finetune/
 
 ### Running the Notebook
 
-Open `Llama_Finetune.ipynb` in Jupyter/Google Colab and follow the step-by-step instructions. The notebook is designed to be run sequentially from top to bottom.
+Open `Llama-model-finetune-new.ipynb` in Jupyter/Google Colab and follow the step-by-step instructions. The notebook is designed to be run sequentially from top to bottom.
 
 ## 🤖 Model Information
 
