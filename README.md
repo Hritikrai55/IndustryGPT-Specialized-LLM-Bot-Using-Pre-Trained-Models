@@ -134,6 +134,8 @@ This project follows the respective licenses of:
 - Hugging Face for the excellent ecosystem
 - The authors of "Attention Is All You Need" for the foundational transformer architecture
 
+## 📞 Contact
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/hritik-rai-/)
 ---
 
 **Happy Fine-tuning!** 🚀
