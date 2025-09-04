@@ -2,7 +2,7 @@
 
 A comprehensive implementation for fine-tuning Meta's Llama 3 8B model using LoRA (Low Rank Adaptation) technique on PDF documents, complete with a Gradio web interface for interactive chat.
 
-`Project Certification`: https://verified.sertifier.com/en/verify/48872981049167/
+- 🎓 [Project Certification](https://verified.sertifier.com/en/verify/48872981049167/)
 
 ## 📋 Features
 
